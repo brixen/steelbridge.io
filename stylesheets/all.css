@@ -1,0 +1,8 @@
+html {
+  display: -webkit-flex;
+  -webkit-flex-direction: row;
+  -webkit-justify-content: center;
+  background-color: #fff; }
+
+body {
+  text-align: center; }
